@@ -1,0 +1,12 @@
+name: ada_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipykernel
+  - scikit-learn
